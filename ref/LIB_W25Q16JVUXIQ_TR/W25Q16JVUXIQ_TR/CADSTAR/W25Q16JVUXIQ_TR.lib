@@ -1,0 +1,16 @@
+.W25Q16JVUXIQ_TR :1 ;NOR Flash spiFlash, 3V, 16M-bit, 4Kb Uniform Sector, DTR
+SON50P300X200X60-9N
+*STM IC
+*NGS
+*PLB 1="'CS'" 2="DO(IO1)" 3="IO2" 4="GND" 5="DI(IO0)" 6="CLK" 7="IO3" 8="VCC" 9="EP"
+*MXP 9
+*DFN W25Q16JVUXIQ_TR
+~!Mouser Part Number (454-W25Q16JVUXIQTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Winbond/W25Q16JVUXIQ-TR?qs=qSfuJ%252Bfl%2Fd7SDdIHLGOd1g%3D%3D)
+~!Manufacturer_Name (Winbond)
+~!Manufacturer_Part_Number (W25Q16JVUXIQ TR)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/W25Q16JVUXIQ TR.pdf)
+~!Height (0.6mm)
+~!3D_Model (W25Q16JVUXIQ_TR)
+W25Q16JVUXIQ_TR
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

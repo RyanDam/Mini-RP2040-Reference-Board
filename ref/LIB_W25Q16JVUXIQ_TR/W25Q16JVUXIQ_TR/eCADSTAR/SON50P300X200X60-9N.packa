@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "W25Q16JVUXIQ_TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-02-24-15:44:44)
+    (mountForm default
+        (footprintRef "SON50P300X200X60-9N")
+        (spec "System")
+    )
+)

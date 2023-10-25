@@ -1,0 +1,16 @@
+.AP2112K-3.3TRG1 :1 ;600mA 3.3V LDO Regulator Enable SOT23-5 DiodesZetex AP2112K-3.3TRG1, LDO Voltage Regulator, 3.3 V +/-1.5%, 2.5  6 Vin, 5-Pin SOT-23
+SOT95P282X130-5N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND" 3="EN" 4="ADJ/NC" 5="VOUT"
+*MXP 5
+*DFN AP2112K-3.3TRG1
+~!Mouser Part Number (621-AP2112K-3.3TRG1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP2112K-3.3TRG1?qs=x6A8l6qLYDDPYHosCdzh%2FA%3D%3D)
+~!Manufacturer_Name (Diodes Inc.)
+~!Manufacturer_Part_Number (AP2112K-3.3TRG1)
+~!Link Datasheet (-)
+~!Height (1.3mm)
+~!3D_Model (AP2112K-3.3TRG1)
+AP2112K-3.3TRG1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

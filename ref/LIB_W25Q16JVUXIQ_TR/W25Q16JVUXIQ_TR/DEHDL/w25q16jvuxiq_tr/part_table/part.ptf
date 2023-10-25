@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'W25Q16JVUXIQ_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Winbond", "W25Q16JVUXIQ TR" (!) = "", "SON50P300X200X60-9N", "Small Outline No-lead", "454-W25Q16JVUXIQTR", "https://www.mouser.co.uk/ProductDetail/Winbond/W25Q16JVUXIQ-TR?qs=qSfuJ%252Bfl%2Fd7SDdIHLGOd1g%3D%3D", "NOR Flash spiFlash, 3V, 16M-bit, 4Kb Uniform Sector, DTR", "https://componentsearchengine.com/Datasheets/1/W25Q16JVUXIQ TR.pdf", "0.6 mm"
+END_PART
+
+END.

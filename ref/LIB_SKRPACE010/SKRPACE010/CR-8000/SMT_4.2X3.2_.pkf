@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SMT_4_2X3_2_"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SMT_4_2X3_2_")
+        (spec "default")
+    )
+)
